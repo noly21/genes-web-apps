@@ -1,1 +1,0 @@
-<?= $registerTemplate->order ?>
